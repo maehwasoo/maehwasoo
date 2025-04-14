@@ -55,8 +55,10 @@
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=Obsidian&logoColor=white"/>
   <!--Figma-->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-    <!--Notion-->
+  <!--Notion-->
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <!--Apple Developer-->
+  <img src="https://img.shields.io/badge/Developer-000000?style=flat-square&logo=Apple&logoColor=white"/>
 
   <br/>
   <br/>
