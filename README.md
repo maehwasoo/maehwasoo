@@ -48,15 +48,15 @@
   <!--Git-->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <!--GitHub-->
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
     <!--Slack-->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <!--Obsidian-->
-  <img src="https://img.shields.io/badge/obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=Obsidian&logoColor=white"/>
   <!--Figma-->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
     <!--Notion-->
-  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
   <br/>
   <br/>
