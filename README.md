@@ -19,9 +19,7 @@
   ## Projects
   #### TIP.ZIP - Community Platform Web (2024.09 ~ 2024.12) <br/>
   #### Hongik ID - Booth Interaction Web Service (2024.10 ~ 2024.11) <br/>
-  #### Literature Web (2025.07 ~ ) <br/>
   #### Mungcourse iOS (2025.03 ~ 2025.05) <br/>
-  #### AR Project iOS (2025.04 ~ 2025.05) <br/>
   #### RecyClean iOS (2025.04 ~ ) <br/>
   <br/>
 
