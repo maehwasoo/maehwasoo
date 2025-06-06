@@ -9,8 +9,6 @@
   <!--Body-->
   
   ## About
-  #### HI-ARC(Hongik Algorithm Research Club) (2020.03 ~ 2020.12) <br/>
-  #### Hongik Univ. CCL(Collaborative Computing Lab) iOS (2023.07 ~ 2025.03) <br/>
   #### LikeLion 12th Frontend Web (2024.03 ~ 2024.12) <br/>
   #### UMC Hongik 8th Web (2025.03 ~ ) <br/>
   #### SOPT 36th Web (2025.03 ~ ) <br/>
