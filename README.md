@@ -10,7 +10,7 @@
   
   ## About
   #### LikeLion 12th Frontend Web (2024.03 ~ 2024.12) <br/>
-  #### UMC Hongik 8th Web (2025.03 ~ ) <br/>
+  #### UMC Hongik 8th Web (2025.03 ~ 2025.07) <br/>
   #### SOPT 36th Web (2025.03 ~ ) <br/>
   <br/>
 
