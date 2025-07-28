@@ -19,6 +19,7 @@
   #### TIP.ZIP - Community Platform Web (2024.09 ~ 2024.12) <br/>
   #### Hongik ID - Booth Interaction Web Service (2024.10 ~ 2024.11) <br/>
   #### Mungcourse 멍코스 iOS (2025.03 ~ 2025.05) <br/>
+  #### HOUME Web (2025.06 ~ ) <br />
   
   <br/>
 
@@ -74,6 +75,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maehwasoo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kheee512)](https://solved.ac/kheee512)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kheee512&theme=cold)
 
 </div>
 
